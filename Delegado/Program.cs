@@ -1,5 +1,6 @@
 ﻿using System;
 //Delegado es un tipo de dato que permite pasar metodos como parámetros
+//1.1
 
 namespace Delegado
 {
